@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task TechFlake</string>
+    <string name="hint_search">Enter Search Query</string>
+</resources>

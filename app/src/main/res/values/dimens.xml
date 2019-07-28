@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small">5dp</dimen>
+    <dimen name="medium">10dp</dimen>
+    <dimen name="large">15dp</dimen>
+    <dimen name="extra">20dp</dimen>
+
+    <dimen name="IconImage">35dp</dimen>
+    <dimen name="editTextHeight">56dp</dimen>
+
+    <dimen name="text_size_regular">14sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+</resources>
